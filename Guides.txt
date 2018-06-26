@@ -1,0 +1,32 @@
+Item Index:
+// index name atk def typ skl rarity price
+Enemy Index:
+// id name atk def floormin floormax
+typ:
+0 - null
+1 - weapon
+2 - helm
+3 - chest
+4 - legging
+5 - boot
+skl:
+0 - none
+1 - ranged-staff
+2 - ranged-bow
+Bag:
+0 - Weapon
+1 - Helm
+2 - Chest
+3 - Legging
+4 - Boot
+5-34 - Inventory
+35 - hp
+36 - level
+37 - xp
+38 - money
+39 - attack
+40 - levelAttack
+41 - defense
+42 - levelDefense
+43 - luck
+44 - class

@@ -1,0 +1,13 @@
+0 Rat 1 1 1 20
+1 Zombie 5 1 5 20
+2 Hunter 7 2 9 30
+3 Ghost 1 4 15 40
+4 Owl 2 0 1 20
+5 Spook_Owl 4 0 1 20
+6 Carson? 7 2 1 30
+7 Feral_Cat 1 1 1 10
+8 Feral_Dog 6 2 10 20
+9 Shark 9 7 15 20
+10 Robb 2 3 5 15
+11 Heralt 4 5 7 15
+12 Giant 7 10 20 30
